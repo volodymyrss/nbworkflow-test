@@ -1,0 +1,6 @@
+# this contains referene to  the workflow identity
+
+metadata:
+  source_short_name: unset
+uri_base: http://odahub.io/tests/testrepo2
+cc_base_image: alpine
